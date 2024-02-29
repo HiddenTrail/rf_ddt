@@ -24,7 +24,7 @@ Google search for ${SEARCH_TERM} finds ${EXPECTED_TEXT}
 # Haku0003 | Mersu       | Mercedes-Benz-henkilöautot
 #@DDT-Data-end
 
-Toinen testi
+Another test
     New Browser         chromium    headless=No
     New Page            https://www.vr.fi
     Click               //*[@data-testid="accept"]
